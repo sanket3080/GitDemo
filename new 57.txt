@@ -1,0 +1,39 @@
+Sanket Sakore
+Malhar, Sr.no-48/4, Lane no-9, Wadgaon Sheri,
+Pune, Maharashtra, 411014
++918087962896
+sanketsakore@gmail.com
+https://www.linkedin.com/in/sanket-sakore/
+
+Objective:
+Dedicated and highly skilled Automation QA Engineer with [X years] of experience in designing, implementing, and maintaining automated test frameworks. Adept at identifying and resolving software defects to ensure the delivery of high-quality products. Seeking an opportunity to contribute expertise in automation testing to a dynamic software development team.
+
+Professional Experience:
+
+Infor India Pvt Ltd, Pune
+Quality Assurance Analyst, Associate
+March 2021 - Present
+
+- Led the development and maintenance of automated test scripts using industry-standard tools such as Selenium, Postman, Docker, and TestNG, resulting in a 40% reduction in testing time.
+- Collaborated with cross-functional teams to create comprehensive test plans and test cases for new product releases.
+- Conducted regression testing to ensure the stability of existing software applications and identified and reported defects using JIRA.
+- Implemented continuous integration and continuous deployment (CI/CD) pipelines using Jenkins and GitLab, reducing deployment time by 30%.
+- Conducted performance testing using tools like JMeter to identify bottlenecks and improve application performance.
+- Mentored junior QA engineers in automation best practices and coding standards.
+
+
+Education:
+
+Bachelors in Computer Engineering, Savitribai Phule Pune University, 2020
+
+
+Skills:
+- Automation Testing: Selenium WebDriver, TestNG, Maven, Postman
+- Programming Languages: Java
+- Test Management Tools: JIRA
+- CI/CD Tools: Jenkins, Travis CI,GitLab
+- Version Control: Git
+- Performance Testing: JMeter
+- Agile/Scrum Methodologies
+- Strong problem-solving and debugging skills
+- Excellent communication and collaboration abilities
